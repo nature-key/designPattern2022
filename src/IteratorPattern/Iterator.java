@@ -1,4 +1,4 @@
-package iteratorPattern;
+package IteratorPattern;
 
 public interface Iterator {
 

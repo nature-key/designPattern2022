@@ -1,4 +1,4 @@
-package iteratorPattern;
+package IteratorPattern;
 
 public class Product {
 
@@ -13,7 +13,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return "iteratorPattern.Product{" +
+        return "IteratorPattern.Product{" +
                 "productName='" + productName + '\'' +
                 ", productCode='" + productCode + '\'' +
                 '}';
